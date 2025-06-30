@@ -1,0 +1,28 @@
+[
+    {
+        "invoice_id": "INV20250113175050",
+        "room_number": "101",
+        "room_type": "Phòng Đơn",
+        "check_in": "13/01/2025",
+        "check_out": "14/01/2025",
+        "days": 1,
+        "price_per_day": 200000.0,
+        "deposit": 0,
+        "total": 200000.0,
+        "payment_date": "13/01/2025",
+        "status": "Đã thanh toán"
+    },
+    {
+        "invoice_id": "INV20250114142233",
+        "room_number": "101",
+        "room_type": "Phòng Đơn",
+        "check_in": "14/01/2025",
+        "check_out": "15/01/2025",
+        "days": 1,
+        "price_per_day": 200000.0,
+        "deposit": 0,
+        "total": 200000.0,
+        "payment_date": "14/01/2025",
+        "status": "Đã thanh toán"
+    }
+]

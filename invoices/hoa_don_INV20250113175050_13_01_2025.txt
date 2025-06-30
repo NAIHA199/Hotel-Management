@@ -1,0 +1,19 @@
+
+        HÓA ĐƠN THANH TOÁN
+        ------------------
+    
+        Mã hóa đơn: INV20250113175050
+        Số phòng: 101
+        Loại phòng: Phòng Đơn
+    
+        Ngày nhận phòng: 13/01/2025
+        Ngày trả phòng: 14/01/2025
+        Số ngày ở: 1
+    
+        Giá phòng/ngày: 200,000 VNĐ
+        Tiền đặt cọc: 0 VNĐ
+        Tổng tiền: 200,000 VNĐ
+    
+        Ngày thanh toán: 13/01/2025
+        Trạng thái: Đã thanh toán
+        
